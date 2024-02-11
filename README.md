@@ -1,5 +1,4 @@
-### Scans FinViz.com news table for articles and derives the sentiment score for
-each ticker passed.
+### Scans FinViz.com news table for articles and derives the sentiment score for each ticker passed.
 
 **SPY included as a baseline in all results.**
 
