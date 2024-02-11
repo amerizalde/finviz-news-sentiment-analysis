@@ -1,0 +1,6 @@
+beautifulsoup4
+rich
+torch==2.1.2
+tqdm
+transformers==4.37.2
+urllib3
